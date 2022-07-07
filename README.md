@@ -1,6 +1,6 @@
 ## Breast Cancer Detection
-Research Paper on the ananlysis of Applying the K Nearest Neighbour Algorithm for Detection
-of Breast Cancer.
+Prediction of Breast Cancer on the Breast Cancer Data Set (BCD) taken from the The University of Wisconsin's WBCD (Wisconsin breast cancer database) was used in this study by Employing the KNN algorithm with PCA.
+
 - Maximum accuracy achieved - 96.51%
 
 ## Tools And Language
